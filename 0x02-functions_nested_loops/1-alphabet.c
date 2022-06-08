@@ -5,7 +5,7 @@
  * the Betty style way
  * return : a to z
 */
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	int j;
 	for (j = 'a'; m <= 'z'; j++)
